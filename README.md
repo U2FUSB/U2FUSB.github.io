@@ -1,10 +1,10 @@
 <h1 align="center">👋 Welcome to U2FUSB's GitHub Page! 👋</h1>
 
 <p align="center">
-    <strong>This page represent my initial journey into the universe of Version Control Systems, the elegance of Kotlin, learning about Programming Patterns, the usefullnes of GitHub, and the challenge of managing medium-sized personal projects.👇</strong>
-</
+    <strong>This page represents my initial journey into the universe of Version Control Systems, the elegance of Kotlin, learning about Programming Patterns, the usefulness of GitHub, and the challenge of managing medium-sized personal projects.👇</strong>
+</p>
 
----
+<hr>
 
 ## 🚀 Projects
 
@@ -14,7 +14,7 @@
 A robust recipe management application built with Kotlin. CRUD operations power recipe manipulation, offering different listing options, and ensuring permanent storage of your favorite recipes. Featuring the MVP pattern, JSON/XML persistence and extensive documentation. (My best one, so far)
 </p>
 
----
+<hr>
 
 ### 🔹 [Notes App](https://github.com/U2FUSB/notes-app)
 
@@ -22,7 +22,7 @@ A robust recipe management application built with Kotlin. CRUD operations power 
 An efficient note-taking application to keep track of your ideas. Manipulate and list your notes in various ways and ensure their permanent storage with this Kotlin-built app.
 </p>
 
----
+<hr>
 
 ### 🔹 [Scrabble Score V1](https://github.com/U2FUSB/scrabbleScoreV1)
 
@@ -30,7 +30,7 @@ An efficient note-taking application to keep track of your ideas. Manipulate and
 Keep track of your Scrabble scores effortlessly. This Kotlin application eliminates the hassle of manual scoring, allowing you to focus on strategizing and winning.
 </p>
 
----
+<hr>
 
 ### 🔹 [Colours](https://github.com/U2FUSB/colours)
 
@@ -38,7 +38,7 @@ Keep track of your Scrabble scores effortlessly. This Kotlin application elimina
 This project was an invaluable opportunity for me to experiment, learn, and hone my skills in Kotlin and GitHub.
 </p>
 
----
+<hr>
 
 ### 🔹 [Control Flow](https://github.com/U2FUSB/controllFlow)
 
@@ -46,7 +46,7 @@ This project was an invaluable opportunity for me to experiment, learn, and hone
 This project is a testament to the first steps of my journey into the dynamic world of Kotlin and GitHub.
 </p>
 
----
+<hr>
 
 ## 🙋‍♂️ Contact Me
 
@@ -54,7 +54,7 @@ Got questions or feedback? Feel free to reach out - I'm always eager to connect 
 
 🔗 **[Visit My GitHub Page](https://github.com/U2FUSB/)**
 
----
+<hr>
 
 <div align="center">
   <sub>Designed with 🧠 by <a href="https://github.com/U2FUSB">U2FUSB</a> and 💻 by <a href="https://openai.com/research/#gpt">GPT-4</a>.</sub>
